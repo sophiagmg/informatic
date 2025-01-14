@@ -1,3 +1,6 @@
+# Sophia Gilb & Alexandra Berg
+
+
 import tkinter as tk
 import snake_ta6 as sn
 
